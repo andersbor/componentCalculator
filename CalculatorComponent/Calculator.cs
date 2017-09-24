@@ -4,7 +4,7 @@ namespace CalculatorComponent
 {
     public class Calculator
     {
-       /// <summary>
+       /// <summary> 
        /// Adds to integers
        /// </summary>
        /// <param name="a">first number</param>
